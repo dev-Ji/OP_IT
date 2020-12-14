@@ -16,7 +16,7 @@ Ajax 를 이용해 라이엇의 공식 API키를 통해 JSON 데이터를 받아
 Using Ajax, JSON data is received through Riot's official API key, parsed, and displayed on the screen, and a bulletin board function is implemented to share the strategy of the desired game character.
 
 ## Maintainer
-* [유의상 (devYoooo)]:crown:
+* [유의상 (devYoooo)]crown:
 * [이지연 (dev-Ji)]
 * [안신혁 (hyuk0912)]
 * [이슬아 (seulAh0729)]
