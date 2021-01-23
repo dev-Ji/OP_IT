@@ -31,6 +31,9 @@ October/2020 - November/2020
 * Library : json, cos, JQuery
 * Database : oracle
 
+## 공헌한 내용
+JSP MVC Model2 CRUD를 이용한 마이페이지, 게시판 수정파트, 프로그램 전체 예외처리 및 에러페이지 구현
+
 
 ***
 
